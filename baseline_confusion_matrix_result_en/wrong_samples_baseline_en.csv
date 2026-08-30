@@ -1,0 +1,154 @@
+﻿path,true_label,pred_label
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\12LS113m1-_part_2.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\12LS115m1-_part_3.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\12LS27m1-_part_1.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\12LS37m1-_part_4.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\12LS38m1-_part_3.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\12LS87m1-_part_4.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\13TC47m1+_part_1.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\13TC52m1+_part_3.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\13TC56m1+_part_2.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\13TC79m1+_part_1.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\13WL49m1+_part_1.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\13WL54m1+_part_2.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\15QM02 -2.5_part_4.png,Mudstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\15QM10 -5_part_3.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\15QM103 -2.5_part_3.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\15QM11 -2.5_part_1.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16AK08 -5_part_4.png,Mudstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16AK32 -2.5_part_2.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16AK75 -2.5_part_2.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16BE122 -2.5_part_1.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16BE28 -2.5_part_2.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16BE83 -2.5_part_3.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16BE96 -2.5_part_2.png,Mudstone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16BE96 -2.5_part_3.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16KZ08 -10_part_2.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16KZ21 -5_part_4.png,Mudstone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16KZ29 -2.5_part_1.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16ZL03m1-_part_4.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16ZL110m1-_part_2.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16ZL46m1-_part_4.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16ZL48m1-_part_4.png,Mudstone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥晶灰岩\16ZL85m1-_part_2.png,Mudstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\12LS24m1-_part_2.png,Wackestone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\12LS58m1-_part_1.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\12LS58m1-_part_2.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\13TC55m1+_part_1.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\14NV173m1+_part_4.png,Wackestone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\14NV186m1+_part_2.png,Wackestone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15QM172 -5_part_1.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15QM174 -2.5_part_1.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15QM174 -2.5_part_2.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15QM174 -2.5_part_3.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15QM26 -2.5_part_3.png,Wackestone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15QM36 -2.5_part_3.png,Wackestone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15QM56 -2.5_part_2.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15TY03 -5_part_2.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15TY55 -2.5_part_1.png,Wackestone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\15TY74 -2.5_part_2.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16BE100 -2.5_part_1.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16BE100 -2.5_part_2.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16BE95 -2.5_part_3.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16BE95 -2.5_part_4.png,Wackestone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16BK40 -2.5_part_1.png,Wackestone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16BK45 -2.5_part_1.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16BK45 -2.5_part_2.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16BK45 -2.5_part_3.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16BK53 -5_part_3.png,Wackestone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16KZ13 -2.5_part_1.png,Wackestone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16KZ35 -2.5_part_2.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16KZ58 -2.5_part_4.png,Wackestone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL114m1-_part_3.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL123m1-_part_1.png,Wackestone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL132m1-_part_2.png,Wackestone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL132m1-_part_4.png,Wackestone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL145m1-_part_1.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL145m1-_part_3.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL178m1-_part_3.png,Wackestone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL251m1-_part_1.png,Wackestone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL251m1-_part_4.png,Wackestone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL268m1-_part_3.png,Wackestone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\16ZL93m1-_part_3.png,Wackestone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\泥粒灰岩\17LT05m1-_part_3.png,Wackestone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\12LS111m1-_part_1.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\12LS60m1-_part_2.png,Floatstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\16ZL02m1-_part_2.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\16ZL139m1-_part_2.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\16ZL139m1-_part_4.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\16ZL14m1-_part_1.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\16ZL50m1-_part_3.png,Floatstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\16ZL53m1-_part_4.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\17LT73m1-_part_3.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\629.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\640.png,Floatstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\644.png,Floatstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\647.png,Floatstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\705.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\746.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\755.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\793.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\801.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\835.png,Floatstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\852.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\893.png,Floatstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\921.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\漂砾灰岩\926.png,Floatstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\砾屑灰岩\16ZL182m1-_part_2.png,Intraclast,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\砾屑灰岩\16ZL186m1-_part_4.png,Intraclast,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\砾屑灰岩\274.png,Intraclast,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\砾屑灰岩\475.png,Intraclast,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\砾屑灰岩\514.png,Intraclast,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\砾屑灰岩\559.png,Intraclast,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\砾屑灰岩\580.png,Intraclast,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS06m1-_part_1.png,Packstone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS07m1-_part_3.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS08m1-_part_1.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS112m1-_part_3.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS14m1-_part_3.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS49m1-_part_2.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS63m1-_part_2.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS64m1-_part_3.png,Packstone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS72m1-_part_2.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\12LS79m1-_part_1.png,Packstone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\13TC22m1+_part_2.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\13TC86m1+_part_3.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\13WL139Am1+_part_3.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\13WL18m1+_part_1.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\14NV123m1+_part_2.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\14NV147m1+_part_1.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\14NV157m1+_part_1.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\14NV168m2+_part_2.png,Packstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\15QM123 -2.5_part_3.png,Packstone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\15QM166 -2.5_part_2.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\15QM203 -2.5_part_1.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\15QM203 -2.5_part_3.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\15QM59 -2.5_part_2.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16AK43 -2.5_part_2.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16BE104 -2.5_part_3.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16BE39 -2.5_part_2.png,Packstone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16BK05 -5_part_1.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16BK23 -2.5_part_3.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16BK33 -5_part_2.png,Packstone,Grainstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16BK42 -2.5_part_1.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16KZ48 -2.5_part_1.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16ZL10m1-_part_2.png,Packstone,Mudstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\16ZL248m1-_part_3.png,Packstone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\17LT76m1-_part_1.png,Packstone,Floatstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\粒泥灰岩\17LT76m1-_part_3.png,Packstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\12LS52m1-_part_3.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\14NV127m1+_part_2.png,Grainstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\14NV187m1+_part_1.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\14NVA02m+_part_2.png,Grainstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\14NVA02m+_part_3.png,Grainstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\15QM20 -2.5_part_2.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\15QM28 -2.5_part_1.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\15TY35 -2.5_part_3.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\15TY40 -2.5_part_1.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\15TY43 -5_part_2.png,Grainstone,Packstone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\15TY63 -2.5_part_1.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\16AK31 -2.5_part_3.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\16AK74 -2.5_part_3.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\16BK52 -2.5_part_3.png,Grainstone,Intraclast
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\16BK97 -2.5_part_2.png,Grainstone,Wackestone
+D:\deep-learning-for-image-processing-master\data_set\imagenet\val\颗粒灰岩\16ZL131m1-_part_3.png,Grainstone,Wackestone
